@@ -11,4 +11,4 @@ Thanks for stopping by! 🤝
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaydensipe&count_private=true&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaydensipe&count_private=true&theme=aura_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
